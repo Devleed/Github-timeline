@@ -1,0 +1,25 @@
+{
+  "name": "glorify-github",
+  "version": "1.0.0",
+  "description": "An app which manages a timeline for all of your github repositories",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Waleed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.24.0",
+    "next": "^9.3.4",
+    "next-redux-wrapper": "^5.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  }
+}
