@@ -11,7 +11,7 @@
   "author": "Waleed",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "next": "^9.3.4",
     "next-redux-wrapper": "^5.0.0",
